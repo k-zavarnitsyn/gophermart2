@@ -21,6 +21,7 @@ vendor/
 # IDEs directories
 .idea
 .vscode
+*.iml
 
 # Local
 /config/local.yaml
